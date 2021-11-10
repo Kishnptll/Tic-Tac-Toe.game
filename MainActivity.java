@@ -1,4 +1,4 @@
-package com.codinginflow.tictactoe;
+package tictactoe.game;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
