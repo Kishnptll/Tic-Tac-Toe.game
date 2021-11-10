@@ -1,3 +1,4 @@
 # Tic-Tac-Toe.game
 
- [Activity.main](./Activity_Main.java)
+ + [Activity_main.xml](./Activity_main.xml)
+ + [MainActivity.java](./MainActivity.java)
